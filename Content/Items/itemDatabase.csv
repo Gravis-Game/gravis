@@ -1,3 +1,0 @@
-Name,Name,Description,Type,Value,Icon
-test,test,a test item,addDamage,10.0,"Texture2d'/Game/Items/Textures/testIcon'"
-rocket,rocket,a test rocket,multiplyGravity,0.8,"Texture2d'/Game/Items/Textures/rocket'"
