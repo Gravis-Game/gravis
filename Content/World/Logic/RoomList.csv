@@ -1,0 +1,8 @@
+---,NorthDoor,EastDoor,SouthDoor,WestDoor
+EndRoomSouth,"True","False","False","False"
+EndRoomNorth,"False","False","True","False"
+EndRoomWest,"False","True","False","False"
+EndRoomEast,"False","False","False","True"
+4DoorSpikeJump,"True","True","True","True"
+4DoorLaunchFiesta,"True","True","True","True"
+4DoorEngineRoom,"True","True","True","True"
