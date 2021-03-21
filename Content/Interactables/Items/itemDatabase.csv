@@ -1,3 +1,6 @@
-Name,Name,Description,Type,Value,Icon
-test,test,a test item,addDamage,10.0,"Texture2d'/Game/Items/Textures/testIcon'"
-rocket,rocket,a test rocket,multiplyEffectDuration,0.8,"Texture2d'/Game/Items/Textures/rocket'"
+---,Name,Description,Type,Value,Icon,Mesh,MeshTexture
+add5dmg,"add5dmg","Boosts your base damage by five.","addDmg","5.000000","Texture2D'/Game/HUD/Textures/FirstPersonCrosshair.FirstPersonCrosshair'","StaticMesh'/Game/Interactables/Items/Meshes/ScifiCrate.ScifiCrate'","Texture2D'/Game/Interactables/Items/Textures/ScifiCrate/Colors/ScifiCrateMaterial_Red.RedScifiCrateMaterial_BaseColor'"
+bonusHeart,"bonusHeart","Provides you with another Heart, take care of it!","addHealth","1.000000","Texture2D'/Game/Interactables/Items/Textures/BonusHeart.BonusHeart'","StaticMesh'/Game/Interactables/Items/Meshes/ScifiCrate.ScifiCrate'","Texture2D'/Game/Interactables/Items/Textures/ScifiCrate/Colors/ScifiCrateMaterial_Purple.PurpleScifiCrateMaterial_BaseColor'"
+doubleBounties,"doubleBounties","Doubles all income","multiplyBounties","2.000000","Texture2D'/Game/Interactables/Items/Textures/2x-income-icon.2x-income-icon'","StaticMesh'/Game/Interactables/Items/Meshes/ScifiCrate.ScifiCrate'","Texture2D'/Game/Interactables/Items/Textures/ScifiCrate/Colors/ScifiCrateMaterial_2xMoney.ScifiCrateMaterial_Green'"
+halfCooldown,"50%CDR","speeds up your cooldowns by 2!","multiplyCooldownspeed","2.000000","Texture2D'/Game/Interactables/Items/Textures/CDRicon.CDRicon'","StaticMesh'/Game/Interactables/Items/Meshes/ScifiCrate.ScifiCrate'","Texture2D'/Game/Interactables/Items/Textures/ScifiCrate/Colors/ScifiCrateMaterial_CDR.ScifiCrateMaterial_CDR'"
+1.5xSpeed,"SpeedUp","Gotta Go!","multiplyPlayerSpeed","1.500000","Texture2D'/Game/Interactables/Items/Textures/rocket.rocket'","StaticMesh'/Game/Interactables/Items/Meshes/ScifiCrate.ScifiCrate'","Texture2D'/Game/Interactables/Items/Textures/ScifiCrate/Colors/ScifiCrateMaterial_Rocket.ScifiCrateMaterial_Rocket'"
