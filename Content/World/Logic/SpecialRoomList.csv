@@ -1,0 +1,4 @@
+---,NorthDoor,EastDoor,SouthDoor,WestDoor
+BossSouth,"True","False","False","False"
+ItemRoomSouth,"True","False","False","False"
+ShopNorth,"False","False","True","False"
